@@ -1,4 +1,4 @@
-    # Tipcalc
+# Tipcalc
 
 ## Installation
 
